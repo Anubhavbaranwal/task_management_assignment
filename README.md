@@ -1,4 +1,3 @@
-I'll help you create a comprehensive README.md file for your Task Management project. Based on the codebase you've shared, it appears to be a RESTful API built with Node.js, Express, and TypeScript, using MongoDB as the database.
 
 ```markdown:README.md
 # Task Management API
